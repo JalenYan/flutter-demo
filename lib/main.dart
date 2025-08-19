@@ -107,6 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   borderRadius: BorderRadius.circular(10),
                   color: Colors.red,
                 ),
+                child: Center(child: Text('1')),
               ),
               Container(
                 height: 100,
